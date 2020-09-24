@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Sweet and spicy",
+        "city": "Mysore",
+        "type": "Veg",
+        "cuisine": ["Indian", "Italian"]
+    },
+    {
+        "name": "Akshaya",
+        "city": "Mysore",
+        "type": "Veg",
+        "cuisine": ["Indian"]
+    },
+    {
+        "name": "Amma Hotel",
+        "city": "Banglore",
+        "type": "Non-Veg",
+        "cuisine": ["Indian", "Chinese", "Arabian"]
+    },
+    {
+        "name": "Raju Hotel",
+        "city": "Hyderabad",
+        "type": "Non-Veg",
+        "cuisine": ["Italian", "Chinese"]
+    },
+    {
+        "name": "Ram hotel",
+        "city": "Banglore",
+        "type": "Non-Veg",
+        "cuisine": ["Arabian", "Chinese"]
+    },
+    {
+        "name": "Saubhagya",
+        "city": "Mysore",
+        "type": "Veg",
+        "cuisine": ["Indian"]
+    }
+]
